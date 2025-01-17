@@ -7,5 +7,5 @@ Ich möchte diese kurze Lernperiode nutzen um an den Modulen zu arbeiten. In der
 Heute möchte die meiste Zeit nutzen für das Modul 450, weil die LB Abgabe schon sehr bald ist, dann noch arbeiten im Modul 295.
 
 ## 17.01.2025
-[] Verbindung vom Code mit Datenbank über Docker
-[] Arbeiten am Modul 347
+Heute möchte ich die Verbindung vom Code mit Datenbank über Docker fertigstellen, da ich Probleme hatte mit meinem Mac. Dannach möchte ich einfach die restliche Zeit nutzen ein wenig an den Modulen zu arbeiten.
+
