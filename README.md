@@ -9,3 +9,6 @@ Heute möchte die meiste Zeit nutzen für das Modul 450, weil die LB Abgabe scho
 ## 17.01.2025
 Heute möchte ich die Verbindung vom Code mit Datenbank über Docker fertigstellen, da ich Probleme hatte mit meinem Mac. Dannach möchte ich einfach die restliche Zeit nutzen ein wenig an den Modulen zu arbeiten.
 
+## 31.01.2025
+
+Heute möchte ich einfach am Modul 114 weiterarbeiten und wenn möglich in der Gruppe alle Aufträge im HZ 2 fertigstellen. Wenn ZEit übrig ist arbeite ich an den persönlichen Moodletests weiter
