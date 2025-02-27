@@ -12,3 +12,8 @@ Heute möchte ich die Verbindung vom Code mit Datenbank über Docker fertigstell
 ## 31.01.2025
 
 Heute möchte ich einfach am Modul 114 weiterarbeiten und wenn möglich in der Gruppe alle Aufträge im HZ 2 fertigstellen. Wenn Zeit übrig ist arbeite ich an den persönlichen Moodletests weiter.
+
+## 19.02.2025
+
+[] Moodle Tests im HZ 2 vom Modul 114 fertig machen.
+[] An Moodle Tests im HZ 3 arbeiten und so weit wie möglich kommen.
